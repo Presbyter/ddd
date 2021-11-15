@@ -1,7 +1,7 @@
-package gateway
+package router
 
 import (
-	"github.com/Presbyter/ddd/gateway/handler"
+	"github.com/Presbyter/ddd/router/handler"
 	"github.com/gin-gonic/gin"
 )
 
